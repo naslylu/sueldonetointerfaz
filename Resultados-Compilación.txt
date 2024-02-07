@@ -1,0 +1,5 @@
+﻿Compilación iniciada a las 08:47...
+1>------ Operación Compilar iniciada: Proyecto: sueldonetointerfaz, configuración: Debug Any CPU ------
+1>  sueldonetointerfaz -> C:\Users\ACE\source\repos\sueldonetointerfaz\sueldonetointerfaz\bin\Debug\sueldonetointerfaz.exe
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 08:47 y tardó 00.986 segundos ==========
